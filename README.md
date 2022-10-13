@@ -127,6 +127,7 @@ conda install -c apple tensorflow-deps
 
 3. Install the package
 ```
+cd alphazero
 pip install .
 ```
 
